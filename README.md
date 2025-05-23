@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./2025-05-22-23-55-46.png" height="180"/>
+  <img src="./2025-05-22-23-55-46.png" style="max-width: 100%; width: 700px;" />
   <h1>🧠 StoryTime – AI-Powered Children’s Book Generator</h1>
   <p><a href="https://www.storybooks.site" target="_blank"><strong>🌐 Visit the Live App</strong></a></p>
 </div>
